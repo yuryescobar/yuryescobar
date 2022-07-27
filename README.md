@@ -47,3 +47,13 @@
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
   <img alt="Report" src ="https://img.shields.io/badge/SQL Server Reporting-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white"/>
 </div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yuryescobar&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuryescobar&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuryescobar&theme=dark" alt="jigar-sable" /></p>
+  </div>
