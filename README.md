@@ -16,7 +16,7 @@
 <div align="left">
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
   <img alt="Pyspark" src="https://img.shields.io/badge/pyspark-%2314354C.svg?style=flat-square&logo=py&logoColor=white"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/> 
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%23323330.svg?style=flat-square&logo=0&logoColor=%23F7DF1E"/> 
   <img alt="PLSQL" src="https://img.shields.io/badge/PL/SQL-%23323330.svg?style=flat-square&logo=0&logoColor=white"/>
    </div>
 <h3 align="left">Databases :</h3>
