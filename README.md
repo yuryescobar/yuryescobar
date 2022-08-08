@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hi, I'm <a href=" " target="_blank"> Mabel Escobar</a></h1>
 #<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Data" /> </h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=500&lines=it+is+being+built" alt="Typing SVG" /></a>
+
 - 🌱 Learning Never Stops 🚀,Im a Data engineer passionate about Data,I like automating things, building pipelines,exploring scalability problems and improving efficiency and performance.
 
-
-- 💬 Ask me about Data, Universe
+- 💬 Ask me about Data, Universe 
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
