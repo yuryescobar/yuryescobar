@@ -17,19 +17,19 @@
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
   <img alt="Pyspark" src="https://img.shields.io/badge/pyspark-%2314354C.svg?style=flat-square&logo=py&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%23323330.svg?style=flat-square&logo=0&logoColor=%23F7DF1E"/> 
-  <img alt="PLSQL" src="https://img.shields.io/badge/PL/SQL-%23323330.svg?style=flat-square&logo=0&logoColor=%23F7DF1E"/>
+  <img alt="PLSQL" src="https://img.shields.io/badge/PL/SQL-%23323330.svg?style=flat-square&logo=0&logoColor=white"/>
    </div>
 <h3 align="left">Databases :</h3>
 <div align="left">
-   <img alt="DataLake" src ="https://img.shields.io/badge/Azure DataLake Storage-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img alt="AzureSynapse" src ="https://img.shields.io/badge/Azure Synapse-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img alt="SSAS" src="https://img.shields.io/badge/Analysis Services -%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="BigQuery" src ="https://img.shields.io/badge/BigQuery-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+   <img alt="DataLake" src ="https://img.shields.io/badge/Azure DataLake Storage-%2307405e.svg?style=flat-square&logo=s&logoColor=white"/>
+  <img alt="AzureSynapse" src ="https://img.shields.io/badge/Azure Synapse-316192?style=flat-square&logo=pl&logoColor=white"/>
+      <img alt="SSAS" src="https://img.shields.io/badge/Analysis Services -%2300f.svg?style=flat-square&logo=m&logoColor=white"/>
+  <img alt="BigQuery" src ="https://img.shields.io/badge/BigQuery-316192?style=flat-square&logo=po&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img alt="MSSQL-Server" src ="https://img.shields.io/badge/SQL Server-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img alt="MSSQL-Server" src ="https://img.shields.io/badge/SQL Server-%2307405e.svg?style=flat-square&logo=sq&logoColor=white"/>
   <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
-    <img alt="Vertica" src="https://img.shields.io/badge/Vertica-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
+    <img alt="Vertica" src="https://img.shields.io/badge/Vertica-%2300f.svg?style=flat-square&logo=my&logoColor=white"/>
 </div>
  <h3 align="left">Integration Data Solutions :</h3>
 <div align="left">
