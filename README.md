@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href=" " target="_blank"> Mabel Escobar</a></h1>
-#<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Data" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Data" /> </h3>
 
 - 🌱 Learning Never Stops 🚀,Im a Data engineer passionate about Data,I like automating things, building pipelines,exploring scalability problems and improving efficiency and performance.
 
