@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href=" " target="_blank"> Mabel Escobar</a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Data" /> </h3>
+#<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Data" /> </h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=500&lines=it+is+being+built" alt="Typing SVG" /></a>
 - 🌱 Learning Never Stops 🚀
 
