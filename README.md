@@ -3,7 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=500&lines=it+is+being+built" alt="Typing SVG" /></a>
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about ***
+- 💬 Ask me about 
+A Data engineer passionate about Data,I like automating things, building pipelines,exploring scalability problems and improving efficiency and performance.
 
 - 👨‍💻 Check out my personal portfolio : ****
 
