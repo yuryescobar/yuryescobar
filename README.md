@@ -3,7 +3,9 @@
 
 - 🌱 Learning Never Stops 🚀,Im a Data engineer passionate about Data,I like automating things, building pipelines,exploring scalability problems and improving efficiency and performance.
 
-- 💬 Ask me about Data, Universe 
+- 💬 Ask me about: Constellations,Start, Universe 
+
+I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
